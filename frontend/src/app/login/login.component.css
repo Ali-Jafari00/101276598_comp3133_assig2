@@ -1,0 +1,46 @@
+
+
+input[type=submit]:hover {
+    background-color: green;
+  }
+label{
+  padding-left: 1.2em;
+}
+form {
+  width: 51%;
+  background-color: rgb(199, 182, 83);
+}
+a{
+    background-color: rgb(253, 222, 185);
+    font: bold
+}
+input[type=submit] {
+  width: 52%;
+  cursor: pointer;
+  border: none;
+  background-color: #609b62;
+  margin-left: 5px;
+  color: white;
+  padding: 15px 22px;
+  margin: 8px 0;
+  border-radius: 5px;
+}
+    
+  div {
+    width: 60%;
+    background-color: yellowgreen;
+    border-radius: 8px;
+    padding: 24px;
+  }
+  
+button {
+  padding: 15px 25px;
+  width: 50%;
+  border-radius: 6px;
+  background-color: green;
+  box-sizing: border-box;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  
+} 
